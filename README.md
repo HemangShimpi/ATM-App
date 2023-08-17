@@ -1,6 +1,8 @@
 # ATM-App
 AP Computer Science A Master Project 2021
 
+Developed an Automated Teller Machine (ATM) application using Java, Swing, JavaMail API, and MySQL. Designed and implemented key functionalities including withdrawal, deposit, balance inquiry, fund transfer, and a user account system. Demonstrated adept utilization of Java and Swing to ensure seamless user interactions and secure transaction processing
+
 # Programming
 Language Used: Java
 
